@@ -1,0 +1,9 @@
+[http]
+	proxy = http://127.0.0.1:7890/
+[https]
+	proxy = http://127.0.0.1:7890/
+[user]
+	email = wxg15527063842@gmail.com
+	name = wxggg
+[core]
+	editor = vim
