@@ -1,0 +1,13 @@
+
+https://github.com/sharkdp/bat
+
+https://github.com/wting/autojump
+
+git clone https://github.com/joelthelion/autojump.git
+cd autojump
+./install.py
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+plugins=(zsh-autosuggestions)
+
